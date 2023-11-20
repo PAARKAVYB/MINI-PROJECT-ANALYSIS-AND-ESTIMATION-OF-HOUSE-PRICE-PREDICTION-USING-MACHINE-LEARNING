@@ -1,5 +1,5 @@
 # MINI-PROJECT-ANALYSIS-AND-ESTIMATION-OF-HOUSE-PRICE-PREDICTION-USING-MACHINE-LEARNING
-## INTRODUCTION
+# INTRODUCTION
  In past estimating the price of a house or apartment its almost manually
 calculated which takes certain amount of time if there is a bulk number of houses.
 For the price estimation we will be referring to certain features like no.of. sqft,
@@ -55,7 +55,7 @@ The gathered dataset is being cleaned using python and pandas library. The datas
 
 # CODE
 ### Loading Saved Data from Web Scraping
-```
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -70,27 +70,27 @@ raw.info()
 
 ```
 ### Initial Check for Duplicates and Missing Values
-```
+```python
 rawcheck = raw.drop_duplicates()
 rawcheck = rawcheck.dropna().reset_index(drop=True)
 rawcheck.isnull().sum()
 
 ```
 ### Data Cleaning
-```
+```python
 cleaning columns data by removing extra symbols and other
 raw.head()
 raw.price.unique()
 
 ```
 ### Price
-```
+```python
 raw['price'] = raw['price'].str.replace(",","").str.replace("₹","").str.strip().astype(float)/1000
 raw.facing.unique()
 
 ```
 ### Facing
-```
+```python
 for i in range(0,len(raw)):
  try:
  raw['facing'][i] = raw['facing'][i].strip("['']").lower().replace("-","")
@@ -100,7 +100,7 @@ raw.floor_no.unique()
 
 ```
 ### Floor_number
-```
+```python
 for i in range(0,len(raw)):
  try:
  raw['floor_no'][i] = raw['floor_no'][i].strip("['']")
@@ -117,7 +117,7 @@ for i in range(0,len(raw)):
 raw.furnishing.unique()
 ```
 ### Furnishing
-```
+```python
 for i in range(0,len(raw)):
  try:
  raw['furnishing'][i] = raw['furnishing'][i].strip("['']").lower().replace("-","")
@@ -126,7 +126,7 @@ for i in range(0,len(raw)):
 raw.bathrooms.unique()
 ```
 ### Bathrooms
-```
+```python
 for i in range(0,len(raw)):
  try:
  raw['bathrooms'][i] = raw['bathrooms'][i].strip("['']")
@@ -138,7 +138,7 @@ raw.bedrooms.unique()
 
 ```
 ### Bedrooms
-```
+```python
 for i in range(0,len(raw)):
  try:
  raw['bedrooms'][i] = raw['bedrooms'][i].strip("['']")
@@ -150,7 +150,7 @@ raw.sqft.unique()
 
 ```
 ### Sqft
-```
+```python
 for i in range(0,len(raw)):
  try:
  raw['sqft'][i] = raw['sqft'][i].strip("['']")
@@ -169,7 +169,7 @@ raw.location.unique()
 
 ```
 ### Location
-```
+```python
 raw['city'] = np.nan
 raw['state'] = np.nan
 for i in range(0,len(raw)):
@@ -182,7 +182,7 @@ for i in range(0,len(raw)):
 raw.head()
 ```
 ### Cleaned data
-```
+```python
 data = raw[['state','city','house_type','sqft','bedrooms','bathrooms',
  'furnishing','constr_info','floor_no','facing','price']]
 data.head()
@@ -200,7 +200,7 @@ for i in data.columns:
 
 ```
 ### Exploratory Data Analysis
-```
+```python
 data.head()
 data.info()
 data.describe(include = 'all')
@@ -227,7 +227,7 @@ sns.boxplot(data.price)
 
 ```
 ### One_Hot Encoding
-```
+```python
 from sklearn.preprocessing import OneHotEncoder
 ohe = OneHotEncoder(handle_unknown='ignore',sparse = False)
 cats = pd.DataFrame(ohe.fit_transform(data.iloc[:,[0,1,2,6,7,9]]))
@@ -261,7 +261,7 @@ metrics.r2_score(y_test, y_pred)
 
 ```
 ### Realtime Estimation
-```
+```python
 data.head()
 One Example for Prediction
 check = [['kerala','kochi','apartments',1000,3,2,'furnished','newlaunch',5,'east']]
@@ -278,7 +278,7 @@ rf_model.predict(check)[0]
 ```
 
 ### One Function for Predict
-```
+```python
 data.columns
 def predict_houseprice(): 
  print("Enter the Following Details To Estimate a House Value:")
@@ -310,5 +310,3 @@ def predict_houseprice():
  print("Estimated Price Value: ", "₹ "+str(roundedprice)+" lacs")
  predict_houseprice()
 ```
-```
-
