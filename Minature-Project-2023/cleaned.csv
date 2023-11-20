@@ -1,0 +1,453 @@
+state,city,house_type,sqft,bedrooms,bathrooms,furnishing,constr_info,floor_no,facing,price
+ Punjab, Mohali,apartments,1481.0,3.0,3.0,semifurnished,newlaunch,4.0,northeast,8530.0
+ Karnataka, Mysuru,housesvillas,1650.0,3.0,3.0,furnished,readytomove,,southeast,10500.0
+ Gujarat, Surat,apartments,3051.0,4.0,4.0,semifurnished,readytomove,2.0,east,17000.0
+ Kerala, Kochi,housesvillas,3000.0,4.0,,,,,,15000.0
+ Rajasthan, Jaipur,apartments,450.0,1.0,1.0,semifurnished,readytomove,1.0,east,1050.0
+ Rajasthan, Jaipur,apartments,1200.0,3.0,2.0,semifurnished,readytomove,1.0,east,2900.0
+ Rajasthan, Jaipur,apartments,1200.0,3.0,2.0,semifurnished,readytomove,1.0,east,2900.0
+ Kerala, Kochi,housesvillas,1500.0,3.0,3.0,semifurnished,readytomove,2.0,east,6000.0
+ Kerala, Kochi,housesvillas,1600.0,3.0,3.0,furnished,readytomove,2.0,west,5500.0
+ Tamil Nadu, Coimbatore,apartments,920.0,2.0,2.0,unfurnished,underconstruction,1.0,northeast,4500.0
+ Kerala, Olavanna,housesvillas,1400.0,3.0,3.0,semifurnished,underconstruction,1.0,east,6500.0
+ Rajasthan, Jaipur,apartments,1050.0,3.0,2.0,furnished,readytomove,1.0,east,2792.356
+ Rajasthan, Jaipur,apartments,1050.0,3.0,2.0,furnished,readytomove,1.0,east,2799.632
+ Rajasthan, Jaipur,apartments,1150.0,3.0,,furnished,readytomove,1.0,east,2796.666
+ Tamil Nadu, Mathigiri,housesvillas,900.0,2.0,2.0,unfurnished,newlaunch,0.0,east,3300.0
+ Kerala, Kochi,housesvillas,1300.0,3.0,3.0,semifurnished,readytomove,,,4100.0
+ Gujarat, Vadodara,apartments,0.0,3.0,3.0,unfurnished,underconstruction,7.0,east,3051.0
+ Kerala, Thiruvananthapuram,housesvillas,1650.0,3.0,3.0,semifurnished,readytomove,,,6500.0
+ Telangana, Hyderabad,apartments,1285.0,2.0,2.0,semifurnished,underconstruction,8.0,northeast,3687.454
+ Gujarat, Vadodara,builderfloors,2100.0,3.0,3.0,unfurnished,underconstruction,1.0,east,4199.0
+ Uttar Pradesh, Meerut,housesvillas,1250.0,3.0,3.0,semifurnished,readytomove,1.0,east,3250.0
+ Kerala, Ottappalam,housesvillas,1500.0,3.0,3.0,unfurnished,underconstruction,,east,3800.0
+ Kerala, Thrissur,housesvillas,2100.0,4.0,3.0,unfurnished,underconstruction,,east,8000.0
+ Kerala, Thrissur,housesvillas,2100.0,3.0,3.0,unfurnished,underconstruction,,east,8000.0
+ Maharashtra, Pune,apartments,938.0,2.0,2.0,furnished,readytomove,5.0,east,4929.0
+ Maharashtra, Pune,apartments,985.0,2.0,2.0,semifurnished,readytomove,9.0,east,5045.0
+ Maharashtra, Pune,apartments,1592.0,3.0,3.0,semifurnished,readytomove,5.0,east,7240.0
+ Maharashtra, Pune,apartments,791.0,1.0,1.0,semifurnished,readytomove,4.0,east,3560.0
+ Gujarat, Ahmedabad,apartments,125.0,2.0,2.0,unfurnished,readytomove,5.0,east,4200.0
+ Punjab, Mohali,apartments,1750.0,3.0,3.0,semifurnished,underconstruction,7.0,northeast,11500.0
+ Kerala, Thiruvananthapuram,housesvillas,1500.0,4.0,4.0,semifurnished,readytomove,,,7000.0
+ Kerala, Thiruvananthapuram,housesvillas,1900.0,3.0,3.0,semifurnished,readytomove,,,5700.0
+ Kerala, Thiruvananthapuram,housesvillas,1500.0,3.0,3.0,semifurnished,readytomove,,,5000.0
+ Rajasthan, Jaipur,apartments,1800.0,4.0,3.0,furnished,readytomove,1.0,east,8000.0
+ Kerala, Kochi,apartments,1200.0,2.0,2.0,semifurnished,readytomove,2.0,east,4200.0
+ Haryana, Gurgaon,builderfloors,1750.0,3.0,3.0,semifurnished,readytomove,2.0,east,8200.0
+ Haryana, Ambala,apartments,117.0,3.0,2.0,unfurnished,readytomove,,southwest,2200.0
+ Kerala, Vazhakulam,housesvillas,1500.0,3.0,2.0,semifurnished,readytomove,,,6200.0
+ Rajasthan, Jodhpur,apartments,715.0,2.0,2.0,unfurnished,newlaunch,1.0,east,2500.0
+ Haryana, Gurgaon,builderfloors,1350.0,3.0,3.0,semifurnished,readytomove,1.0,east,5500.0
+ Rajasthan, Jaipur,apartments,850.0,2.0,2.0,semifurnished,readytomove,2.0,east,2300.0
+ Rajasthan, Jaipur,apartments,1200.0,3.0,2.0,semifurnished,readytomove,1.0,east,2900.0
+ Rajasthan, Jaipur,apartments,850.0,2.0,2.0,semifurnished,readytomove,2.0,east,2250.0
+ Rajasthan, Jaipur,apartments,900.0,2.0,2.0,,readytomove,2.0,east,2200.0
+ Rajasthan, Jaipur,apartments,1200.0,3.0,2.0,semifurnished,readytomove,2.0,east,2800.0
+ Rajasthan, Jaipur,apartments,1200.0,3.0,2.0,semifurnished,readytomove,1.0,east,2900.0
+ Rajasthan, Jaipur,apartments,1200.0,3.0,2.0,semifurnished,readytomove,1.0,east,2750.0
+ Kerala, Kochi,housesvillas,1600.0,3.0,3.0,furnished,readytomove,2.0,east,6900.0
+,,,,,,,,,,
+ Punjab, Zirakpur,builderfloors,1298.0,3.0,3.0,semifurnished,readytomove,3.0,east,3990.0
+ Telangana, Hyderabad,apartments,1080.0,2.0,1.0,semifurnished,readytomove,1.0,northeast,5000.0
+ Uttar Pradesh, Lucknow,housesvillas,1650.0,3.0,4.0,furnished,readytomove,12.0,west,5700.0
+ West Bengal, Asansol MC,housesvillas,1100.0,2.0,2.0,unfurnished,readytomove,1.0,east,3500.0
+ Tamil Nadu, Coimbatore,apartments,921.0,2.0,2.0,unfurnished,underconstruction,3.0,northeast,4500.0
+ Kerala, Kochi,housesvillas,1550.0,4.0,4.0,furnished,readytomove,1.0,east,6000.0
+ Tamil Nadu, Coimbatore,apartments,784.0,2.0,2.0,unfurnished,underconstruction,2.0,northeast,4500.0
+ Rajasthan, Jaipur,apartments,900.0,2.0,2.0,semifurnished,readytomove,1.0,east,2094.567
+ Rajasthan, Jaipur,apartments,900.0,2.0,,semifurnished,,1.0,east,2099.658
+ Rajasthan, Jaipur,apartments,1200.0,3.0,2.0,semifurnished,newlaunch,1.0,east,2999.963
+ Tamil Nadu, Tiruppur,housesvillas,1432.0,2.0,2.0,unfurnished,underconstruction,,north,7500.0
+ Tamil Nadu, Hosur,housesvillas,1400.0,2.0,2.0,unfurnished,underconstruction,1.0,west,7246.0
+ Tamil Nadu, Mathigiri,housesvillas,950.0,2.0,2.0,unfurnished,newlaunch,0.0,south,3300.0
+ Kerala, Kochi,housesvillas,2900.0,4.0,4.0,semifurnished,readytomove,,north,21500.0
+ Uttar Pradesh, Ghaziabad,apartments,2390.0,3.0,3.0,semifurnished,newlaunch,7.0,northeast,9999.999
+ Maharashtra, Thane,apartments,1150.0,2.0,2.0,unfurnished,underconstruction,20.0,east,7000.0
+ Rajasthan, Jaipur,housesvillas,1738.0,4.0,3.0,semifurnished,readytomove,,west,3900.0
+ Kerala, Thiruvananthapuram,housesvillas,1350.0,3.0,3.0,semifurnished,readytomove,,,4500.0
+ Uttar Pradesh, Greater Noida,apartments,2398.0,4.0,4.0,unfurnished,readytomove,0.0,,8000.0
+ Gujarat, Vadodara,apartments,0.0,3.0,3.0,unfurnished,underconstruction,7.0,east,3051.0
+ Gujarat, Vadodara,apartments,0.0,3.0,3.0,unfurnished,underconstruction,7.0,east,3051.0
+ Gujarat, Vadodara,apartments,0.0,2.0,2.0,unfurnished,readytomove,1.0,west,3500.0
+ Gujarat, Vadodara,apartments,0.0,3.0,3.0,unfurnished,underconstruction,7.0,east,3051.0
+ Kerala, Thiruvananthapuram,housesvillas,1700.0,3.0,3.0,semifurnished,readytomove,2.0,east,6600.0
+ Kerala, Thrissur,housesvillas,1500.0,3.0,3.0,unfurnished,underconstruction,,east,4250.0
+ Andhra Pradesh, Vijayawada,apartments,1050.0,3.0,3.0,furnished,readytomove,3.0,east,4100.0
+ Rajasthan, Udaipur,housesvillas,4500.0,5.0,5.0,unfurnished,readytomove,3.0,southeast,13000.0
+ Delhi, Delhi,builderfloors,800.0,3.0,2.0,semifurnished,readytomove,1.0,east,3011.0
+ Kerala, Ottappalam,housesvillas,1500.0,3.0,3.0,unfurnished,underconstruction,,east,4250.0
+ Haryana, Gurgaon,builderfloors,1200.0,3.0,3.0,semifurnished,readytomove,1.0,,5800.0
+ Maharashtra, Pune,apartments,1685.0,3.0,3.0,furnished,readytomove,9.0,east,7989.0
+ Maharashtra, Pune,apartments,1064.0,2.0,2.0,semifurnished,readytomove,5.0,east,5180.0
+ Maharashtra, Pune,apartments,974.0,2.0,,semifurnished,readytomove,9.0,east,5260.0
+ Punjab, Mohali,apartments,2200.0,3.0,3.0,semifurnished,readytomove,7.0,north,10600.0
+ Gujarat, Bharuch,apartments,1400.0,3.0,3.0,semifurnished,readytomove,2.0,east,4250.0
+ Delhi, Delhi,builderfloors,450.0,1.0,1.0,semifurnished,readytomove,,,1450.0
+ Gujarat, Ahmedabad,apartments,1395.0,2.0,2.0,semifurnished,readytomove,2.0,east,4150.0
+ Kerala, Palai,housesvillas,2700.0,4.0,4.0,semifurnished,readytomove,0.0,,12500.0
+ Punjab, Kharar,builderfloors,850.0,2.0,2.0,semifurnished,readytomove,3.0,northeast,1890.0
+ Haryana, Gurgaon,builderfloors,1350.0,3.0,2.0,semifurnished,readytomove,2.0,east,3700.0
+ Haryana, Gurgaon,builderfloors,1350.0,3.0,3.0,semifurnished,readytomove,1.0,east,5500.0
+ Gujarat, Surat,apartments,625.0,1.0,1.0,unfurnished,readytomove,,,1700.0
+ Gujarat, Surat,apartments,1950.0,3.0,3.0,unfurnished,readytomove,,east,6800.0
+ Gujarat, Surat,housesvillas,1500.0,3.0,3.0,unfurnished,underconstruction,,east,5311.0
+ Gujarat, Surat,apartments,1110.0,2.0,2.0,semifurnished,readytomove,,north,2900.0
+ Gujarat, Surat,apartments,1130.0,2.0,2.0,unfurnished,readytomove,,east,3400.0
+ Gujarat, Surat,apartments,1209.0,2.0,2.0,unfurnished,underconstruction,,east,4775.0
+ Kerala, Changanacheri,housesvillas,1250.0,3.0,3.0,semifurnished,newlaunch,1.0,west,5450.0
+ Uttar Pradesh, Varanasi,apartments,300.0,1.0,1.0,unfurnished,newlaunch,0.0,east,1200.0
+ Tamil Nadu, Chennai,apartments,543.0,1.0,1.0,unfurnished,readytomove,1.0,north,1999.997
+ Gujarat, Surat,apartments,1233.0,2.0,2.0,semifurnished,readytomove,,east,4100.0
+ Gujarat, Surat,apartments,712.0,1.0,1.0,unfurnished,readytomove,,east,2400.0
+ Gujarat, Surat,apartments,771.0,1.0,1.0,unfurnished,underconstruction,,east,2711.0
+ Gujarat, Surat,apartments,1750.0,3.0,3.0,semifurnished,readytomove,,east,5000.0
+ Punjab, Jalandhar,housesvillas,2500.0,4.0,4.0,semifurnished,readytomove,2.0,,5600.0
+ Punjab, Jalandhar,apartments,1400.0,3.0,3.0,semifurnished,readytomove,,,4500.0
+ Punjab, Jalandhar,apartments,2360.0,3.0,3.0,semifurnished,newlaunch,,,6500.0
+ Punjab, Jalandhar,housesvillas,3000.0,4.0,4.0,semifurnished,readytomove,,,6200.0
+ Kerala, Kochi,housesvillas,1700.0,3.0,3.0,semifurnished,readytomove,,,4800.0
+ Andhra Pradesh, Vijayawada,housesvillas,1400.0,2.0,2.0,unfurnished,underconstruction,1.0,east,4500.0
+ Andhra Pradesh, Vijayawada,housesvillas,1000.0,2.0,2.0,furnished,newlaunch,1.0,northeast,3500.0
+ Gujarat, Vadodara,housesvillas,1537.0,3.0,3.0,unfurnished,readytomove,,northeast,11500.0
+ Rajasthan, Jaipur,apartments,991.0,2.0,2.0,semifurnished,readytomove,1.0,north,3000.0
+ Kerala, Thiruvananthapuram,housesvillas,1650.0,4.0,4.0,semifurnished,newlaunch,,east,6700.0
+ Kerala, Thiruvananthapuram,housesvillas,2000.0,4.0,4.0,semifurnished,newlaunch,,,6200.0
+ Andhra Pradesh, Tirupati,housesvillas,24.0,3.0,3.0,furnished,newlaunch,2.0,east,5800.0
+ Karnataka, Mysuru,housesvillas,1200.0,2.0,2.0,furnished,readytomove,,northwest,7000.0
+ Delhi, Delhi,builderfloors,1230.0,3.0,2.0,semifurnished,underconstruction,1.0,north,6400.0
+ Kerala, Thiruvananthapuram,housesvillas,2300.0,4.0,4.0,semifurnished,newlaunch,,east,8000.0
+ Delhi, Delhi,builderfloors,513.0,2.0,2.0,semifurnished,readytomove,2.0,north,2321.0
+ Delhi, Delhi,builderfloors,423.0,1.0,1.0,semifurnished,readytomove,2.0,north,1695.0
+ Delhi, Delhi,builderfloors,725.0,,3.0,semifurnished,readytomove,3.0,west,3521.0
+ Gujarat, Vadodara,apartments,1066.0,2.0,2.0,unfurnished,underconstruction,,,1849.996
+ Delhi, Delhi,builderfloors,720.0,3.0,2.0,furnished,readytomove,2.0,north,3550.0
+ Delhi, Delhi,builderfloors,520.0,2.0,2.0,semifurnished,readytomove,1.0,south,2225.0
+ Maharashtra, Thane,apartments,650.0,2.0,1.0,semifurnished,readytomove,7.0,,2000.0
+ Rajasthan, Jaipur,housesvillas,1210.0,3.0,2.0,semifurnished,readytomove,1.0,west,2210.0
+ Kerala, Kadungalloor,housesvillas,1999.0,3.0,3.0,furnished,readytomove,,,6800.0
+ Tamil Nadu, Chennai,housesvillas,1800.0,2.0,2.0,unfurnished,readytomove,,south,5600.0
+ Kerala, Kollam,housesvillas,3150.0,4.0,5.0,furnished,newlaunch,,northwest,11000.0
+ Kerala, Kochi,housesvillas,3000.0,4.0,4.0,furnished,readytomove,,,11000.0
+ Haryana, Gurgaon,housesvillas,1000.0,5.0,2.0,furnished,readytomove,1.0,north,4300.0
+ Kerala, Kochi,housesvillas,2200.0,4.0,4.0,furnished,readytomove,,,5500.0
+ Kerala, Kochi,housesvillas,2350.0,4.0,4.0,semifurnished,readytomove,,,13000.0
+ Uttar Pradesh, Ghaziabad,builderfloors,900.0,2.0,2.0,semifurnished,readytomove,1.0,east,1450.0
+ Delhi, Delhi,builderfloors,460.0,2.0,1.0,semifurnished,readytomove,1.0,east,2150.0
+ Kerala, Thiruvananthapuram,housesvillas,1200.0,3.0,3.0,furnished,readytomove,,east,3100.0
+ Maharashtra, Mumbai,apartments,650.0,1.0,2.0,semifurnished,readytomove,2.0,east,3600.0
+ Maharashtra, Thane,apartments,1800.0,3.0,3.0,furnished,readytomove,6.0,west,12000.0
+ Kerala, South Thrikkaripur,farmhouses,1000.0,3.0,1.0,semifurnished,readytomove,1.0,northeast,50.0
+ Odisha, Bhubaneshwar,housesvillas,2000.0,5.0,4.0,unfurnished,underconstruction,2.0,east,7000.0
+ Kerala, Aluva,housesvillas,2100.0,4.0,4.0,furnished,readytomove,,east,8500.0
+ Maharashtra, Thane,apartments,650.0,1.0,1.0,unfurnished,readytomove,16.0,southeast,4200.0
+ Uttar Pradesh, Jhansi,housesvillas,1800.0,4.0,2.0,semifurnished,readytomove,0.0,north,6000.0
+ Kerala, Kochi,housesvillas,1602.0,3.0,3.0,semifurnished,readytomove,,north,4999.999
+ Kerala, Kochi,housesvillas,2000.0,4.0,4.0,semifurnished,readytomove,,,6000.0
+ Maharashtra, Mumbai,apartments,650.0,1.0,2.0,semifurnished,readytomove,0.0,east,3300.0
+ Kerala, Kochi,housesvillas,2400.0,4.0,4.0,furnished,readytomove,,,14000.0
+ Kerala, Thiruvananthapuram,housesvillas,2200.0,4.0,4.0,semifurnished,readytomove,,,7000.0
+ West Bengal, Kolkata,apartments,1070.0,3.0,2.0,furnished,readytomove,2.0,northwest,3200.0
+ Maharashtra, Thane,builderfloors,856.0,2.0,2.0,unfurnished,newlaunch,3.0,northwest,4120.0
+ Uttar Pradesh, Greater Noida,builderfloors,433.0,1.0,1.0,semifurnished,readytomove,1.0,east,998.0
+ Delhi, Delhi,builderfloors,750.0,2.0,2.0,semifurnished,readytomove,2.0,east,2300.0
+ Kerala, Kochi,apartments,591.0,1.0,1.0,unfurnished,underconstruction,3.0,east,2850.0
+ Kerala, Kochi,housesvillas,900.0,2.0,2.0,furnished,readytomove,,,4200.0
+ Haryana, Gurgaon,builderfloors,700.0,2.0,2.0,furnished,readytomove,1.0,east,2000.0
+ Delhi, Delhi,builderfloors,1000.0,3.0,2.0,semifurnished,readytomove,1.0,north,5500.0
+ Kerala, Kochi,housesvillas,2400.0,4.0,4.0,furnished,readytomove,,,8500.0
+ Kerala, Thodupuzha,housesvillas,1400.0,3.0,3.0,furnished,readytomove,1.0,east,4600.0
+ Telangana, Hyderabad,apartments,600.0,1.0,1.0,furnished,readytomove,3.0,east,2050.0
+ Kerala, Kadungalloor,housesvillas,925.0,2.0,2.0,semifurnished,readytomove,,,3100.0
+ Delhi, Delhi,builderfloors,1000.0,3.0,2.0,semifurnished,readytomove,4.0,west,5000.0
+ Kerala, Thodupuzha,housesvillas,1400.0,3.0,3.0,furnished,readytomove,1.0,east,5500.0
+ Kerala, Thiruvananthapuram,housesvillas,1100.0,3.0,3.0,furnished,readytomove,,east,4000.0
+ Andhra Pradesh, Vijayawada,apartments,550.0,1.0,1.0,semifurnished,readytomove,2.0,west,1610.0
+ Haryana, Gurgaon,builderfloors,950.0,3.0,2.0,furnished,readytomove,1.0,north,3200.0
+ Kerala, Thiruvananthapuram,housesvillas,1000.0,3.0,3.0,furnished,readytomove,,east,3700.0
+ Kerala, Thodupuzha,housesvillas,2600.0,4.0,3.0,furnished,readytomove,3.0,east,9500.0
+ Tamil Nadu, Chennai,housesvillas,5700.0,4.0,4.0,unfurnished,readytomove,2.0,west,240000.0
+ Maharashtra, Mumbai,apartments,1400.0,2.0,3.0,furnished,readytomove,12.0,west,31900.0
+ Delhi, Delhi,apartments,1045.0,2.0,2.0,unfurnished,underconstruction,5.0,east,3814.0
+ Maharashtra, Mumbai,apartments,455.0,,1.0,unfurnished,readytomove,1.0,,2050.0
+ Kerala, Thodupuzha,housesvillas,1500.0,4.0,4.0,furnished,readytomove,2.0,east,3500.0
+ Tamil Nadu, Hosur,housesvillas,1600.0,3.0,3.0,unfurnished,underconstruction,12.0,northeast,5500.0
+ Kerala, Kozhikode,housesvillas,2000.0,4.0,4.0,unfurnished,underconstruction,2.0,,6200.0
+ Maharashtra, Navi Mumbai,apartments,640.0,1.0,1.0,unfurnished,readytomove,2.0,east,4000.0
+ Kerala, Thodupuzha,housesvillas,1950.0,4.0,4.0,furnished,readytomove,1.0,east,6500.0
+ Telangana, Hyderabad,housesvillas,775.0,2.0,2.0,unfurnished,readytomove,0.0,west,5200.0
+ Bihar, Muzaffarpur,housesvillas,1110.0,2.0,2.0,furnished,readytomove,2.0,west,6000.0
+ Tamil Nadu, Chennai,apartments,800.0,2.0,2.0,semifurnished,readytomove,2.0,south,8500.0
+ Karnataka, Bengaluru,apartments,1110.0,,,,,,east,5500.0
+ Uttaranchal, Haridwar,housesvillas,701.0,2.0,1.0,semifurnished,readytomove,,north,1850.0
+ Kerala, Kochi,housesvillas,1600.0,3.0,3.0,semifurnished,readytomove,,,6600.0
+ Karnataka, Bengaluru,housesvillas,1200.0,,,,,,,18000.0
+ Karnataka, Bengaluru,housesvillas,1350.0,,,,,,,15000.0
+ Haryana, Gurgaon,housesvillas,1700.0,4.0,4.0,furnished,readytomove,1.0,east,5500.0
+ Uttar Pradesh, Bareilly,housesvillas,35.0,2.0,1.0,semifurnished,readytomove,1.0,northeast,1500.0
+ Telangana, Hyderabad,apartments,1550.0,3.0,3.0,semifurnished,readytomove,4.0,north,7500.0
+ Rajasthan, Kota,housesvillas,1250.0,3.0,2.0,furnished,underconstruction,1.0,east,4600.0
+ Maharashtra, Mumbai,apartments,990.0,2.0,2.0,semifurnished,readytomove,3.0,northeast,7700.0
+ Kerala, Thiruvananthapuram,housesvillas,800.0,2.0,2.0,furnished,readytomove,,east,3200.0
+ Punjab, Patiala,housesvillas,3000.0,5.0,3.0,furnished,readytomove,,,11000.0
+ Haryana, Gurgaon,builderfloors,990.0,3.0,2.0,furnished,readytomove,2.0,north,3200.0
+ Kerala, Ettumanoor,housesvillas,1600.0,3.0,3.0,furnished,readytomove,1.0,east,6000.0
+ West Bengal, Kolkata,apartments,800.0,2.0,2.0,unfurnished,readytomove,3.0,south,1700.0
+ Kerala, Kochi,housesvillas,2100.0,4.0,4.0,semifurnished,underconstruction,,,9000.0
+ West Bengal, Puruliya,housesvillas,891.0,1.0,1.0,unfurnished,readytomove,,north,1000.0
+ Kerala, Thiruvananthapuram,housesvillas,1600.0,3.0,4.0,semifurnished,readytomove,,,4500.0
+ Odisha, Bhubaneshwar,housesvillas,1300.0,3.0,2.0,unfurnished,underconstruction,2.0,northwest,3500.0
+ Haryana, Gurgaon,housesvillas,1400.0,4.0,3.0,furnished,readytomove,1.0,northwest,5100.0
+ Kerala, Thiruvananthapuram,housesvillas,2700.0,5.0,5.0,semifurnished,readytomove,,,10500.0
+ Kerala, Thiruvananthapuram,housesvillas,2100.0,4.0,4.0,semifurnished,readytomove,,,8500.0
+ Chhattisgarh, Raipur,housesvillas,800.0,2.0,2.0,unfurnished,readytomove,1.0,east,2700.0
+ Kerala, Thiruvananthapuram,housesvillas,2100.0,4.0,4.0,semifurnished,readytomove,,,9000.0
+ Kerala, Thiruvananthapuram,housesvillas,1600.0,4.0,4.0,semifurnished,readytomove,,,4800.0
+ Andhra Pradesh, Vijayawada,housesvillas,690.0,2.0,2.0,furnished,readytomove,2.0,east,4500.0
+ Rajasthan, Jodhpur,housesvillas,2000.0,5.0,5.0,semifurnished,readytomove,2.0,east,5500.0
+ Delhi, Delhi,builderfloors,850.0,3.0,2.0,semifurnished,readytomove,2.0,southeast,4200.0
+ Uttar Pradesh, Ghaziabad,apartments,1421.0,3.0,2.0,furnished,readytomove,6.0,east,5500.0
+ Kerala, Bharanikkavu,housesvillas,4500.0,1.0,1.0,unfurnished,readytomove,,west,2800.0
+ Maharashtra, Palghar,housesvillas,2500.0,4.0,4.0,semifurnished,readytomove,0.0,east,16000.0
+ Madhya Pradesh, Bhopal,housesvillas,1500.0,3.0,2.0,semifurnished,readytomove,,north,6500.0
+ Tamil Nadu, Chennai,apartments,2783.0,3.0,3.0,unfurnished,readytomove,1.0,south,18000.0
+ Chhattisgarh, Raipur,housesvillas,600.0,2.0,1.0,unfurnished,readytomove,1.0,south,2000.0
+ Kerala, Kochi,housesvillas,1689.0,4.0,3.0,furnished,readytomove,,,6500.0
+ Kerala, Kochi,housesvillas,1800.0,4.0,4.0,furnished,readytomove,,,6500.0
+ Haryana, Gurgaon,housesvillas,1300.0,3.0,2.0,semifurnished,readytomove,2.0,north,3600.0
+ Telangana, Hyderabad,,,,,,,,,9900.0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+ Punjab, Jalandhar,housesvillas,5500.0,3.0,3.0,unfurnished,readytomove,,,30000.0
+ Punjab, Jalandhar,housesvillas,6000.0,5.0,5.0,semifurnished,readytomove,2.0,,26000.0
+ Andhra Pradesh, Vijayawada,housesvillas,1400.0,2.0,2.0,unfurnished,newlaunch,1.0,north,4500.0
+ Kerala, Kochi,housesvillas,1000.0,2.0,2.0,furnished,readytomove,,,2800.0
+ Haryana, Gurgaon,builderfloors,1300.0,3.0,3.0,semifurnished,readytomove,1.0,northeast,7100.0
+ Kerala, Kochi,housesvillas,2600.0,4.0,4.0,semifurnished,readytomove,,east,10000.0
+ Kerala, Kochi,housesvillas,1475.0,3.0,3.0,furnished,readytomove,,,5500.0
+ Andhra Pradesh, Vijayawada,housesvillas,1400.0,2.0,2.0,unfurnished,underconstruction,1.0,northeast,4500.0
+ Andhra Pradesh, Vijayawada,housesvillas,1000.0,2.0,2.0,furnished,underconstruction,1.0,east,3500.0
+ Delhi, Delhi,builderfloors,550.0,2.0,2.0,semifurnished,readytomove,1.0,northeast,2000.0
+ Delhi, Delhi,builderfloors,400.0,1.0,1.0,semifurnished,readytomove,1.0,northeast,1275.0
+ Delhi, Delhi,builderfloors,700.0,3.0,2.0,semifurnished,readytomove,1.0,north,3200.0
+ Rajasthan, Jaipur,builderfloors,1322.0,3.0,2.0,semifurnished,readytomove,1.0,north,3199.999
+ Rajasthan, Jaipur,housesvillas,1848.0,4.0,3.0,semifurnished,readytomove,,east,6000.0
+ Rajasthan, Jaipur,housesvillas,1700.0,3.0,3.0,semifurnished,readytomove,,west,5500.0
+ Kerala, Chingoli,housesvillas,1138.0,2.0,1.0,semifurnished,readytomove,,north,6000.0
+ Karnataka, Bengaluru,housesvillas,18528.0,5.0,5.0,semifurnished,readytomove,,east,63500.0
+ Punjab, Mohali,builderfloors,900.0,2.0,2.0,furnished,readytomove,2.0,east,2490.0
+ Delhi, Delhi,builderfloors,400.0,1.0,1.0,semifurnished,readytomove,1.0,east,990.0
+ Delhi, Delhi,builderfloors,500.0,2.0,1.0,semifurnished,readytomove,1.0,east,1490.0
+ Kerala, Thiruvananthapuram,housesvillas,1400.0,3.0,3.0,semifurnished,newlaunch,,north,5500.0
+ Delhi, Delhi,builderfloors,603.0,2.0,2.0,semifurnished,readytomove,2.0,north,2925.0
+ Delhi, Delhi,builderfloors,521.0,2.0,2.0,,readytomove,3.0,south,2421.0
+ Kerala, Thiruvananthapuram,housesvillas,1450.0,3.0,3.0,semifurnished,newlaunch,,east,5000.0
+ Gujarat, Vadodara,apartments,1066.0,2.0,2.0,unfurnished,underconstruction,,,1849.998
+ Gujarat, Vadodara,apartments,1066.0,2.0,2.0,unfurnished,underconstruction,,,1849.999
+ Kerala, Kochi,housesvillas,1999.0,4.0,4.0,furnished,readytomove,,,8500.0
+ Telangana, Hyderabad,apartments,1560.0,3.0,2.0,unfurnished,readytomove,3.0,east,8500.0
+ Kerala, Tirurangadi,housesvillas,1000.0,3.0,1.0,unfurnished,readytomove,,east,3500.0
+ Uttar Pradesh, Noida,farmhouses,2000.0,5.0,5.0,semifurnished,readytomove,,northeast,15000.0
+ Uttar Pradesh, Agra,housesvillas,594.0,2.0,1.0,semifurnished,underconstruction,,north,2100.0
+ Kerala, Thrissur,housesvillas,2000.0,4.0,5.0,furnished,newlaunch,2.0,east,99000.0
+ Kerala, Kozhikode,housesvillas,2000.0,3.0,3.0,semifurnished,readytomove,,,5800.0
+ Andhra Pradesh, Guntur,apartments,1200.0,2.0,2.0,furnished,readytomove,1.0,northwest,3600.0
+ Maharashtra, Thane,apartments,615.0,1.0,1.0,unfurnished,underconstruction,3.0,east,4999.0
+ Kerala, Kochi,housesvillas,1403.0,3.0,3.0,furnished,readytomove,,,5100.0
+ Kerala, Kochi,housesvillas,2007.0,4.0,4.0,,readytomove,,,7500.0
+ Madhya Pradesh, Jabalpur,housesvillas,400.0,2.0,1.0,furnished,readytomove,1.0,north,1100.0
+ Kerala, Kochi,housesvillas,1900.0,3.0,3.0,furnished,readytomove,,,7500.0
+ Kerala, Aluva,housesvillas,2305.0,4.0,4.0,furnished,readytomove,,,7800.0
+ Kerala, Thiruvananthapuram,housesvillas,1500.0,3.0,3.0,semifurnished,readytomove,,,4100.0
+ Tamil Nadu, Chennai,apartments,900.0,2.0,2.0,unfurnished,readytomove,1.0,east,2950.0
+ Kerala, Thiruvananthapuram,housesvillas,1000.0,3.0,3.0,semifurnished,readytomove,,,3700.0
+ Kerala, Kochi,housesvillas,1735.0,4.0,4.0,furnished,readytomove,,,6000.0
+ Kerala, Thrissur,apartments,1050.0,2.0,2.0,unfurnished,readytomove,8.0,east,3700.0
+ West Bengal, Kolkata,builderfloors,835.0,2.0,2.0,unfurnished,readytomove,4.0,east,2200.0
+ Delhi, Delhi,builderfloors,370.0,1.0,1.0,semifurnished,readytomove,2.0,east,1450.0
+ Punjab, Ludhiana,apartments,4276.0,4.0,4.0,semifurnished,readytomove,5.0,north,27000.0
+ Kerala, Kochi,housesvillas,3000.0,4.0,4.0,furnished,readytomove,,,35000.0
+ Kerala, Thiruvananthapuram,housesvillas,2600.0,4.0,5.0,semifurnished,readytomove,,,8200.0
+ Telangana, Mahbubnagar,housesvillas,2700.0,4.0,3.0,unfurnished,readytomove,1.0,east,40.0
+ Kerala, Kochi,housesvillas,1399.0,3.0,3.0,furnished,readytomove,,,5500.0
+ Kerala, Kochi,housesvillas,1850.0,3.0,3.0,furnished,readytomove,,,7300.0
+ Kerala, Choornikkara,housesvillas,1441.0,3.0,3.0,furnished,readytomove,,,4499.999
+ Chhattisgarh, Raipur,housesvillas,500.0,2.0,2.0,unfurnished,readytomove,1.0,north,1800.0
+ Kerala, Kochi,housesvillas,900.0,2.0,2.0,furnished,readytomove,,,4000.0
+ Rajasthan, Jaipur,apartments,900.0,2.0,2.0,semifurnished,readytomove,1.0,east,2096.666
+ Kerala, Kozhikode,housesvillas,1500.0,3.0,2.0,furnished,,,,400.0
+,,,,,,,,,,
+ Kerala, Thiruvananthapuram,apartments,1900.0,3.0,4.0,furnished,readytomove,,,5500.0
+ Kerala, Kochi,housesvillas,1800.0,3.0,3.0,furnished,readytomove,,,6500.0
+ Kerala, Aluva,housesvillas,1850.0,4.0,4.0,furnished,readytomove,,,6100.0
+ Karnataka, Bengaluru,apartments,1123.0,2.0,2.0,semifurnished,readytomove,1.0,west,6322.11
+ Kerala, Thiruvananthapuram,housesvillas,1080.0,2.0,2.0,unfurnished,newlaunch,,east,3450.0
+ Uttar Pradesh, Meerut,housesvillas,1700.0,4.0,2.0,semifurnished,underconstruction,,east,4100.0
+ Karnataka, Bengaluru,apartments,940.0,2.0,2.0,unfurnished,readytomove,3.0,north,3955.0
+ Kerala, Angamaly,housesvillas,2950.0,5.0,5.0,furnished,readytomove,,east,20000.0
+,,,,,,,,,,
+ Kerala, Thiruvananthapuram,housesvillas,1800.0,3.0,3.0,furnished,readytomove,0.0,east,7800.0
+ Kerala, Kottayam,housesvillas,1250.0,3.0,2.0,semifurnished,readytomove,,north,5500.0
+ Tamil Nadu, Coimbatore,housesvillas,1150.0,2.0,3.0,furnished,readytomove,1.0,east,3300.0
+ Chhattisgarh, Raipur,builderfloors,800.0,2.0,2.0,unfurnished,readytomove,1.0,west,2350.0
+ Kerala, Kochi,housesvillas,2400.0,4.0,5.0,furnished,readytomove,,,12000.0
+ Kerala, Thiruvananthapuram,housesvillas,1800.0,4.0,4.0,semifurnished,readytomove,,,5300.0
+ Tamil Nadu, Coimbatore,housesvillas,1000.0,2.0,3.0,semifurnished,newlaunch,1.0,north,2500.0
+ Punjab, Mohali,builderfloors,990.0,2.0,2.0,semifurnished,readytomove,2.0,northeast,2750.0
+ Maharashtra, Mumbai,apartments,1210.0,3.0,2.0,semifurnished,readytomove,,,24000.0
+ Tamil Nadu, Coimbatore,housesvillas,1150.0,2.0,3.0,furnished,readytomove,1.0,north,3200.0
+ Haryana, Jhajjar,housesvillas,2000.0,5.0,5.0,furnished,readytomove,1.0,east,8000.0
+ Kerala, Thiruvananthapuram,housesvillas,2100.0,4.0,4.0,semifurnished,readytomove,,,8000.0
+ Chhattisgarh, Raipur,builderfloors,900.0,2.0,2.0,unfurnished,underconstruction,1.0,southeast,3200.0
+ Chhattisgarh, Durg,housesvillas,1800.0,3.0,3.0,furnished,readytomove,,north,3800.0
+ Kerala, Varkala,housesvillas,800.0,2.0,2.0,furnished,readytomove,1.0,east,2800.0
+ Assam, Guwahati,apartments,1215.0,3.0,2.0,semifurnished,readytomove,1.0,northwest,7290.0
+ Tamil Nadu, Coimbatore,housesvillas,1150.0,2.0,2.0,semifurnished,newlaunch,1.0,northeast,3500.0
+ Kerala, Thiruvananthapuram,housesvillas,1300.0,3.0,3.0,semifurnished,readytomove,,,4100.0
+ Kerala, Chalakudy,housesvillas,1600.0,3.0,3.0,unfurnished,readytomove,,north,10200.0
+ Maharashtra, Mumbai,apartments,1281.0,3.0,2.0,semifurnished,readytomove,1.0,,38500.0
+ Himachal Pradesh, Dharamsala,housesvillas,100.0,4.0,3.0,furnished,readytomove,0.0,north,10.0
+ Chhattisgarh, Raipur,housesvillas,800.0,2.0,2.0,unfurnished,readytomove,1.0,west,2500.0
+ Tamil Nadu, Madukkarai,housesvillas,1000.0,1.0,1.0,unfurnished,underconstruction,1.0,north,3300.0
+ Punjab, Mohali,apartments,990.0,2.0,2.0,semifurnished,readytomove,2.0,northeast,2750.0
+ Tamil Nadu, Chennai,housesvillas,1170.0,2.0,3.0,unfurnished,newlaunch,3.0,south,3500.0
+ Maharashtra, Navi Mumbai,apartments,1132.0,2.0,2.0,semifurnished,readytomove,1.0,northeast,9500.0
+ Maharashtra, Mumbai,apartments,550.0,1.0,2.0,unfurnished,underconstruction,,,7500.0
+ Uttar Pradesh, Greater Noida,apartments,910.0,2.0,2.0,semifurnished,readytomove,3.0,northeast,2097.222
+ Gujarat, Ahmedabad,apartments,650.0,1.0,1.0,semifurnished,readytomove,3.0,north,2500.0
+ Tamil Nadu, Chennai,housesvillas,550.0,1.0,1.0,semifurnished,readytomove,1.0,east,2300.0
+ Kerala, Kochi,housesvillas,1560.0,4.0,3.0,semifurnished,readytomove,,east,4600.0
+ Madhya Pradesh, Bhopal,housesvillas,0.0,3.0,2.0,unfurnished,underconstruction,0.0,east,1300.0
+ Karnataka, Bengaluru,apartments,1100.0,2.0,2.0,furnished,readytomove,3.0,northeast,3500.0
+ Uttar Pradesh, Ghaziabad,apartments,32.0,1.0,1.0,semifurnished,readytomove,4.0,,1150.0
+ Rajasthan, Jaipur,builderfloors,1050.0,3.0,2.0,semifurnished,readytomove,1.0,east,2699.456
+ Uttaranchal, Dehradun,housesvillas,800.0,2.0,1.0,furnished,newlaunch,1.0,west,3699.999
+ Maharashtra, Mumbai,apartments,700.0,1.0,2.0,unfurnished,readytomove,,,12000.0
+ Punjab, Mohali,builderfloors,990.0,2.0,2.0,semifurnished,readytomove,2.0,northeast,2750.0
+ Tamil Nadu, Coimbatore,housesvillas,1150.0,2.0,3.0,semifurnished,readytomove,1.0,northeast,3300.0
+ Maharashtra, Mumbai,apartments,500.0,1.0,1.0,unfurnished,underconstruction,,,7500.0
+ Rajasthan, Jaipur,builderfloors,900.0,2.0,2.0,semifurnished,readytomove,1.0,east,2099.963
+ Tamil Nadu, Coimbatore,housesvillas,1000.0,1.0,1.0,unfurnished,underconstruction,1.0,north,3300.0
+ Uttaranchal, Dehradun,housesvillas,1000.0,2.0,3.0,furnished,newlaunch,1.0,south,5200.0
+ Maharashtra, Mumbai,apartments,590.0,1.0,1.0,unfurnished,readytomove,,,10500.0
+ Kerala, Kochi,housesvillas,1500.0,2.0,2.0,semifurnished,readytomove,1.0,north,15.0
+ Punjab, Mohali,apartments,990.0,2.0,2.0,semifurnished,readytomove,2.0,northwest,2750.0
+ Rajasthan, Alwar,apartments,1265.0,3.0,2.0,furnished,newlaunch,2.0,south,9500.0
+ Maharashtra, Mumbai,apartments,700.0,1.0,2.0,unfurnished,underconstruction,,,9800.0
+ Delhi, Delhi,apartments,300.0,1.0,1.0,semifurnished,readytomove,1.0,southwest,699.999
+ Punjab, Mohali,builderfloors,650.0,1.0,1.0,semifurnished,readytomove,1.0,northeast,1790.0
+ Delhi, Delhi,builderfloors,425.0,1.0,1.0,semifurnished,readytomove,1.0,northeast,1251.551
+ Gujarat, Surat,apartments,782.0,2.0,2.0,semifurnished,readytomove,5.0,east,1400.0
+ Himachal Pradesh, Paonta Sahib,housesvillas,5.0,5.0,5.0,unfurnished,readytomove,,northwest,16000.0
+ Maharashtra, Mumbai,apartments,1120.0,2.0,2.0,semifurnished,readytomove,10.0,,17000.0
+ Uttar Pradesh, Greater Noida,apartments,855.0,2.0,2.0,semifurnished,readytomove,4.0,northeast,2045.625
+ Rajasthan, Jaipur,builderfloors,1150.0,3.0,2.0,semifurnished,readytomove,1.0,east,2999.452
+ Kerala, Kochi,housesvillas,700.0,2.0,3.0,semifurnished,readytomove,,east,2300.0
+ West Bengal, Asansol MC,apartments,1191.0,3.0,2.0,semifurnished,newlaunch,3.0,northeast,2798.85
+ Maharashtra, Mumbai,apartments,1150.0,2.0,2.0,unfurnished,readytomove,,,16000.0
+ Uttaranchal, Dehradun,housesvillas,1200.0,4.0,3.0,furnished,newlaunch,2.0,east,5499.999
+ West Bengal, Asansol MC,apartments,1172.0,3.0,2.0,semifurnished,underconstruction,3.0,southwest,2754.2
+ Haryana, Bhiwani,housesvillas,1070.0,3.0,3.0,furnished,readytomove,1.0,south,4800.0
+ Kerala, Kochi,housesvillas,2500.0,4.0,4.0,unfurnished,readytomove,,,14800.0
+ Kerala, Kochi,housesvillas,4000.0,4.0,5.0,furnished,readytomove,,,55000.0
+ Kerala, Kochi,housesvillas,2400.0,4.0,4.0,semifurnished,readytomove,,,23500.0
+ West Bengal, Asansol MC,apartments,1327.0,3.0,2.0,semifurnished,underconstruction,4.0,southeast,3118.45
+ Uttar Pradesh, Ghaziabad,builderfloors,1250.0,3.0,2.0,semifurnished,readytomove,1.0,northeast,5485.0
+ Maharashtra, Mumbai,apartments,395.0,,2.0,unfurnished,readytomove,2.0,,1900.0
+ Punjab, Mohali,apartments,950.0,2.0,2.0,semifurnished,readytomove,1.0,northeast,3990.0
+ Kerala, Guruvayur,housesvillas,1206.0,3.0,3.0,unfurnished,newlaunch,,north,4599.999
+ Rajasthan, Jaipur,housesvillas,1500.0,3.0,3.0,semifurnished,readytomove,1.0,west,3000.0
+ Kerala, Ettumanoor,housesvillas,2000.0,4.0,4.0,semifurnished,readytomove,2.0,east,6500.0
+ Tamil Nadu, Chennai,housesvillas,860.0,2.0,2.0,unfurnished,readytomove,0.0,west,8600.0
+ Tamil Nadu, Chennai,housesvillas,1500.0,2.0,2.0,semifurnished,readytomove,0.0,west,8500.0
+ Tamil Nadu, Chennai,housesvillas,1200.0,5.0,5.0,semifurnished,readytomove,0.0,south,8800.0
+ Tamil Nadu, Chennai,housesvillas,1750.0,5.0,5.0,semifurnished,readytomove,0.0,northwest,28500.0
+ Tamil Nadu, Chennai,housesvillas,1200.0,5.0,5.0,semifurnished,readytomove,0.0,east,9500.0
+ Tamil Nadu, Chennai,apartments,893.0,2.0,2.0,semifurnished,readytomove,1.0,north,5500.0
+ Chhattisgarh, Bilaspur,housesvillas,1000.0,2.0,2.0,semifurnished,newlaunch,1.0,east,2199.0
+ Kerala, Kozhikode,apartments,1147.0,2.0,2.0,unfurnished,readytomove,,,7700.0
+ Tamil Nadu, Chennai,housesvillas,700.0,1.0,1.0,semifurnished,underconstruction,,northeast,2750.0
+ Kerala, Thiruvananthapuram,housesvillas,2400.0,5.0,5.0,furnished,readytomove,2.0,east,9900.0
+ Kerala, Aluva,housesvillas,1550.0,3.0,3.0,semifurnished,readytomove,,east,5500.0
+ West Bengal, Siliguri,apartments,1035.0,2.0,2.0,furnished,readytomove,1.0,north,6000.0
+ Kerala, Koratty,housesvillas,1450.0,3.0,3.0,semifurnished,readytomove,,north,5500.0
+ Maharashtra, Thane,apartments,680.0,1.0,2.0,unfurnished,readytomove,18.0,east,7300.0
+ Kerala, Thiruvananthapuram,housesvillas,2100.0,4.0,4.0,semifurnished,readytomove,,,6200.0
+ Kerala, Koratty,housesvillas,1700.0,3.0,2.0,semifurnished,readytomove,,,4900.0
+ Kerala, Thiruvananthapuram,housesvillas,1900.0,3.0,3.0,semifurnished,readytomove,,,5500.0
+ West Bengal, Siliguri,apartments,1686.0,3.0,3.0,semifurnished,readytomove,1.0,east,8400.0
+ West Bengal, Siliguri,apartments,1384.0,3.0,2.0,unfurnished,readytomove,3.0,,5400.0
+ Karnataka, Udupi,apartments,1785.0,3.0,3.0,semifurnished,readytomove,1.0,north,6200.0
+ Jharkhand, Ranchi,builderfloors,1350.0,2.0,2.0,semifurnished,underconstruction,4.0,east,4600.0
