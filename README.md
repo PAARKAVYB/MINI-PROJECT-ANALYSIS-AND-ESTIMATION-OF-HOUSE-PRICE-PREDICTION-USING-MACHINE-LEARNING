@@ -313,3 +313,32 @@ def predict_houseprice():
 # Output
 <img width="475" alt="1" src="https://github.com/PAARKAVYB/MINI-PROJECT-ANALYSIS-AND-ESTIMATION-OF-HOUSE-PRICE-PREDICTION-USING-MACHINE-LEARNING/assets/93509383/f9a18bc3-513a-41ff-b0e6-349005c87e2a">
 
+# Conclusion
+In the project's inaugural week, notable progress was achieved in automating house price estimation through machine learning. Diverse data sources were explored, and advanced algorithms, particularly Decision Trees, were successfully applied.
+Key accomplishments include the effective use of UiPath Studio for data scraping from OLX, ensuring structured data extraction. Subsequent data cleaning addressed missing values and outliers, enhancing dataset quality for more accurate predictions.
+Moving forward, the focus remains on rigorous model optimization for improved predictive accuracy, incorporating metrics like Mean Absolute Error and Root Mean Squared Error.
+
+# References
+[1] M. Ahtesham, N. Z. Bawany and K. Fatima, "House Price Prediction using
+Machine Learning Algorithm - The Case of Karachi City, Pakistan," 2020 21st
+International Arab Conference on Information Technology (ACIT), 2020, pp. 1-5,
+doi: 10.1109/ACIT50332.2020.9300074.
+
+[2] Y. Chen, R. Xue and Y. Zhang, "House price prediction based on machine
+learning and deep learning methods," 2021 International Conference on Electronic
+Information Engineering and Computer Science (EIECS), 2021, pp. 699-702, doi:
+10.1109/EIECS53707.2021.9587907.
+
+[3] G. K. Kumar, D. M. Rani, N. Koppula and S. Ashraf, "Prediction of House Price
+Using Machine Learning Algorithms," 2021 5th International Conference on Trends
+in Electronics and Informatics (ICOEI), 2021, pp. 1268-1271, doi:
+10.1109/ICOEI51242.2021.9452820.
+
+[4] J. Manasa, R. Gupta and N. S. Narahari, "Machine Learning based Predicting
+House Prices using Regression Techniques," 2020 2nd International Conference on
+Innovative Mechanisms for Industry Applications (ICIMIA), 2020, pp. 624-630, doi:
+10.1109/ICIMIA48430.2020.9074952.
+[5] T. D. Phan, "Housing Price Prediction Using Machine Learning Algorithms: The
+Case of Melbourne City, Australia," 2018 International Conference on Machine
+Learning and Data Engineering (iCMLDE), 2018, pp. 35-42, doi:
+10.1109/iCMLDE.2018.00017
