@@ -310,3 +310,6 @@ def predict_houseprice():
  print("Estimated Price Value: ", "₹ "+str(roundedprice)+" lacs")
  predict_houseprice()
 ```
+# Output
+<img width="475" alt="1" src="https://github.com/PAARKAVYB/MINI-PROJECT-ANALYSIS-AND-ESTIMATION-OF-HOUSE-PRICE-PREDICTION-USING-MACHINE-LEARNING/assets/93509383/f9a18bc3-513a-41ff-b0e6-349005c87e2a">
+
